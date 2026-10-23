@@ -28,7 +28,7 @@
 * [Module 3: Linked Lists](tree/main/PRELIM/MODULE%203)
 * [Module 4: Stacks](tree/main/PRELIM/MODULE%204)
 * [Module 5: Queues](tree/main/PRELIM/MODULE%205)
-* [Prelim Examination](tree/main/PRELIM/Prelim%20Examination)
+* [Prelim Examination](tree/main/PRELIM/PRELIM%20EXAM)
 
 [**MIDTERM**](tree/main/MIDTERM)
 * [Module 6: Searching Techniques](tree/main/MIDTERM/MODULE%206)
@@ -36,7 +36,6 @@
 * [Module 8: Sorting Algorithms Pt 2](tree/main/MIDTERM/MODULE%208)
 * [Module 9: Trees](tree/main/MIDTERM/MODULE%209)
 * [Module 10: Graphs](tree/main/MIDTERM/MODULE%2010)
-* [Midterm Exam](tree/main/MIDTERM/Midterm%20Exam)
 
 [**FINAL**](tree/main/FINAL)
 * [Module 11: Basic Algorithm Analysis](tree/main/FINAL/MODULE%2011)
