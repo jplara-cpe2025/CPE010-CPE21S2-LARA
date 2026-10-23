@@ -23,14 +23,14 @@
 # 📌 Course Topics
 
 [**PRELIM**](tree/main/PRELIM)
-* Module 1: Introduction to Data Structures and Algorithms
-* Module 2: Arrays, Pointers and Dynamic Memory Allocation
-* Module 3: Linked Lists
-* Module 4: Stacks
-* Module 5: Queues
-* Prelim Examination
+* [Module 1: Introduction to Data Structures and Algorithms](tree/main/PRELIM/MODULE 1)
+* [Module 2: Arrays, Pointers and Dynamic Memory Allocation]
+* [Module 3: Linked Lists]
+* [Module 4: Stacks]
+* [Module 5: Queues]
+* [Prelim Examination]
 
-**MIDTERM**
+[**MIDTERM**](tree/main/MIDTERM)
 * Module 6: Searching Techniques
 * Module 7: Sorting Algorithms Pt 1
 * Module 8: Sorting Algorithms Pt 2
@@ -38,7 +38,7 @@
 * Module 10: Graphs
 * Midterm Exam
 
-**FINAL**
+[**FINAL**](tree/main/FINAL)
 * Module 11: Basic Algorithm Analysis
 * Module 12: Algorithmic Strategies
 * Module 13: Parallel Algorithms and Multithreading
