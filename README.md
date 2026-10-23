@@ -22,7 +22,7 @@
 
 # 📌 Course Topics
 
-**PRELIM**
+[**PRELIM**](tree/main/PRELIM)
 * Module 1: Introduction to Data Structures and Algorithms
 * Module 2: Arrays, Pointers and Dynamic Memory Allocation
 * Module 3: Linked Lists
