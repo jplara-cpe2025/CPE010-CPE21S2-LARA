@@ -8,6 +8,7 @@
 
 * Course Name: CPE 010 - Data Structures and Algorithms - A.Y. 2026-2027
 * Student Name: Juan Paulo Lara
+* Section: CPE 21S2
 
 # ✅ Course Objectives
 
