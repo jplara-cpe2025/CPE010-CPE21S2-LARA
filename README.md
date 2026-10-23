@@ -11,6 +11,8 @@
 
 # ✅ Course Objectives
 
+**CILOS**
+
 1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
    
 2. Design efficient algorithms and analyze their complexity. 
@@ -19,7 +21,7 @@
 
 # 📌 Course Topics
 
-PRELIM
+**PRELIM**
 * Module 1: Introduction to Data Structures and Algorithms
 * Module 2: Arrays, Pointers and Dynamic Memory Allocation
 * Module 3: Linked Lists
@@ -27,7 +29,7 @@ PRELIM
 * Module 5: Queues
 * Prelim Examination
 
-MIDTERM
+**MIDTERM**
 * Module 6: Searching Techniques
 * Module 7: Sorting Algorithms Pt 1
 * Module 8: Sorting Algorithms Pt 2
@@ -35,7 +37,7 @@ MIDTERM
 * Module 10: Graphs
 * Midterm Exam
 
-FINAL
+**FINAL**
 * Module 11: Basic Algorithm Analysis
 * Module 12: Algorithmic Strategies
 * Module 13: Parallel Algorithms and Multithreading
