@@ -11,7 +11,7 @@
 
 # ✅ Course Objectives
 
-**CILOS**
+**CILOs**
 
 1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design.
    
